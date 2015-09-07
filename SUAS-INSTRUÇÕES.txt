@@ -1,2 +1,5 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Utilizei o Maven para fazer o projeto, que estÃ¡ divido em dois.
+Um contÃ©m os objetos de transiÃ§Ã£o, e o outro as regras do jogo.
+
+Para executar os testes, utilize a classe GameTest.java, que estÃ¡ no projeto game
+
